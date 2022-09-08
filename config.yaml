@@ -19,8 +19,8 @@ menu:
       weight: 100
     - identifier: contact
       name: Contact
-      url: /contact
       weight: 200
+      url: /contact
 params:
   color: "#4f46e5" 
   copyright: "Copyright &copy; 2022 Acme Corporation. 
